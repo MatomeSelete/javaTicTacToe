@@ -228,6 +228,7 @@ public class TicTacToe implements ActionListener {
             oWins(0, 3, 6);
         };
 
+
     }
 
     public void xWins(int a, int b, int c) {
